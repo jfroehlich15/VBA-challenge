@@ -7,3 +7,4 @@ Summary Table Code.bas includes the vba macro that runs through all rows from th
 
 I have also added the complete excel files that includes the same macros as the base files
 
+PNG files include three screenshots of the three sheets on the complete excel file and the data that has been run through the macros
